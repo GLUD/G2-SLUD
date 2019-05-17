@@ -106,7 +106,7 @@ right=20mm,headsep=11mm,headheight=20mm,footskip=11mm]{geometry}
 \lhead{%
 \hspace*{-47.5mm}
 \rand\rand\rand\rand\rand
-\epsfig{file=logo/\@logoseries_\iflanguage{finnish}{fi}{en}_\chooselogo{\arabic{rand}}.pdf,height=11mm}
+\epsfig{file=logo/\@logoseries_\iflanguage{finnish}{fi}{en}_\chooselogo{\arabic{rand}}.png,height=16mm}
 %%% \epsfig{file=logo/Aalto_logo_\iflanguage{finnish}{fi}{en}_\arabic{rand}.pdf,height=11mm}
 }
 
